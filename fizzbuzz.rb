@@ -1,4 +1,6 @@
-describe "fizzbuzz"(int)
+def fizzbuzz(int)
+  
+end "fizzbuzz"(int)
 if int % 3 == 0 && int % 5 == 0
   "Fizzbuzz"
 elsif int % 3 == 0
