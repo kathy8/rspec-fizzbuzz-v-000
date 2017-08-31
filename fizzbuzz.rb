@@ -1,3 +1,4 @@
-def fizzbuzz
+describe "fizzbuzz" do
 
-end 
+
+end
